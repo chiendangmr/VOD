@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VODServiceBase", "VODServiceBase.csproj", "{654BBCEF-4BD1-4673-A05A-52CF73398647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDCore", "..\..\BBTCab\HDStation Xml\HDCore\HDCore.csproj", "{41CDA197-3450-4918-8890-6F0CF82BD9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDCPProtocol2", "..\..\BBTCab\Watch folder\HDCPProtocol2\HDCPProtocol2.csproj", "{4D9CE181-7F69-49C0-8408-4DD9D8BD35EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDNetWork", "..\..\BBTCab\Watch folder\HDNetWork\HDNetWork.csproj", "{F0BDDDCE-665A-4789-AC8A-AD280509FCE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VODServiceConsole", "..\VODServiceConsole\VODServiceConsole.csproj", "{57455228-4B38-459A-A555-4F730629BC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654BBCEF-4BD1-4673-A05A-52CF73398647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654BBCEF-4BD1-4673-A05A-52CF73398647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654BBCEF-4BD1-4673-A05A-52CF73398647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654BBCEF-4BD1-4673-A05A-52CF73398647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CDA197-3450-4918-8890-6F0CF82BD9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CDA197-3450-4918-8890-6F0CF82BD9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CDA197-3450-4918-8890-6F0CF82BD9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CDA197-3450-4918-8890-6F0CF82BD9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D9CE181-7F69-49C0-8408-4DD9D8BD35EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9CE181-7F69-49C0-8408-4DD9D8BD35EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9CE181-7F69-49C0-8408-4DD9D8BD35EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9CE181-7F69-49C0-8408-4DD9D8BD35EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0BDDDCE-665A-4789-AC8A-AD280509FCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0BDDDCE-665A-4789-AC8A-AD280509FCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0BDDDCE-665A-4789-AC8A-AD280509FCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0BDDDCE-665A-4789-AC8A-AD280509FCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57455228-4B38-459A-A555-4F730629BC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57455228-4B38-459A-A555-4F730629BC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57455228-4B38-459A-A555-4F730629BC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57455228-4B38-459A-A555-4F730629BC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
